@@ -1,1 +1,1 @@
-# Password-Generator-2
+This is a password generator which generates a password with a random English adjective, English noun, and three random numbers. The two txt files that I used, english-adjectives.txt and english-nouns.txt, belong to https://gist.github.com/hugsy and can be found at https://github.com/hugsy/stuff/blob/master/random-word/english-adjectives.txt and https://github.com/hugsy/stuff/blob/master/random-word/english-nouns.txt respectively.
